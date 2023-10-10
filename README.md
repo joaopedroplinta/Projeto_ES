@@ -1,0 +1,2 @@
+<h1>Projeto FinX app de Investimentos</h1>
+<p>Foi feito UX de um app de Investimentos no Figma, onde tem sua versão mobile e desktop. Onde mostra sua carteira com todos os investimentos e também mostra as criptomoedas e ações do mercado.</p>
